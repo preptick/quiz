@@ -1,0 +1,23 @@
+[
+    {
+      "question": "What is the full form of ATM?",
+      "options": [
+        "Automated Teller Machine",
+        "Auto Teller Machine",
+        "All Time Money",
+        "Access Teller Machine"
+      ],
+      "answer": "Automated Teller Machine"
+    },
+    {
+      "question": "What is IFSC?",
+      "options": [
+        "Indian Financial System Code",
+        "Internet Fund Secure Code",
+        "India Federal Safe Code",
+        "Instant Fund Secure Channel"
+      ],
+      "answer": "Indian Financial System Code"
+    }
+  ]
+  
